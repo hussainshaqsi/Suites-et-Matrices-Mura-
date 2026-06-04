@@ -17,4 +17,4 @@ def rembourses(mensualite,monthly_payments,C):
 M=mensualite(monthly_payments,C,taux_annuel)
 print(f"La mensualite avec interets est de {M}")
 print(f"Le montant des interets rembourses sont de {rembourses(M, monthly_payments, C)}")
-print(f"Le taux mensuel est de {taux_mensuel}")
+print(f"Le taux mensuel est de {taux_mensuel}") //
